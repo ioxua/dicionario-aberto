@@ -1,0 +1,23 @@
+{
+  "name": "dicionario-aberto",
+  "version": "1.0.0",
+  "description": "Dataset completo do Dicionario Aberto em JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "dataset",
+    "dicionario",
+    "portugues"
+  ],
+  "author": "Yehoshua Oliveira <ioxua.oliveira@gmail.com>",
+  "license": "CC-BY-SA-2.5",
+  "dependencies": {
+    "camaro": "^3.0.14"
+  },
+  "devDependencies": {
+    "xml2js": "^0.4.19"
+  }
+}
