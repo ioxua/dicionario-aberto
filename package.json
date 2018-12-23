@@ -14,9 +14,6 @@
   ],
   "author": "Yehoshua Oliveira <ioxua.oliveira@gmail.com>",
   "license": "CC-BY-SA-2.5",
-  "dependencies": {
-    "camaro": "^3.0.14"
-  },
   "devDependencies": {
     "xml2js": "^0.4.19"
   }
